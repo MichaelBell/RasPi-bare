@@ -1,1 +1,5 @@
-bin
+#C Crap
+.o
+kernel.bin
+.map
+
